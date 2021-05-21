@@ -7,7 +7,7 @@ body
 .top
 {
 
-  height:600px;
+  height:100vh;
  background-image: url(images/FoodImg1.png);
   background-size: 100% 200%;
   background-repeat: no-repeat;
