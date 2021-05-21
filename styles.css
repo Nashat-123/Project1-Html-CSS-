@@ -9,7 +9,7 @@ body
 
   height:600px;
  background-image: url(images/FoodImg1.png);
-  background-size: 100% 200%;
+  background-size:cover;
   background-repeat: no-repeat;
 text-align: center;
 }
